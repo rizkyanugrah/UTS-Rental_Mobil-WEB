@@ -1,0 +1,20 @@
+[
+  {
+    "email": "rizky@member.com",
+    "name": "Rizky Anugrah",
+    "password": "$2y$10$gZcDMGq4Pvt9wMuU.UmW.O8M27m8w4tDMoWLJb11TSPBxmubwOh1G",
+    "role": "Member"
+  },
+  {
+    "email": "staff@rental.com",
+    "name": "Rizky Anugrah",
+    "password": "$2y$10$gZcDMGq4Pvt9wMuU.UmW.O8M27m8w4tDMoWLJb11TSPBxmubwOh1G",
+    "role": "Staff"
+  },
+  {
+    "email": "admin@rental.com",
+    "name": "Rizky Anugrah",
+    "password": "$2y$10$gZcDMGq4Pvt9wMuU.UmW.O8M27m8w4tDMoWLJb11TSPBxmubwOh1G",
+    "role": "Admin"
+  }
+]
